@@ -1,6 +1,4 @@
-# Cahier des charges 
-
-## Analyse de Besoins pour l'Application "Calories Tracker"
+# Analyse de Besoins pour l'Application "Calories Tracker"
 
 ## Identification des Besoins des Utilisateurs
 
