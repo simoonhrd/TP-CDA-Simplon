@@ -6,7 +6,7 @@ Cette plateforme a pour but de centraliser des infos de manière collaborative a
 
 1. [Liste des compétences du référentiel qui sont couvertes par le projet](#Liste-des-compétences-du-référentiel-qui-sont-couvertes-par-le-projet)
 2. [Résumé du projet](./resume-projet.md)
-3. [Cahier des charges](#Cahier-des-charges)
+3. [Cahier des charges](./cahier-des-charges.md)
 4. [Gestion de projet](#Gestion-de-projet)
 5. [Spécifications fonctionnelles](#Spécifications-fonctionnelles)
 6. [Spécifications techniques](#Spécifications-techniques)
