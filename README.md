@@ -5,56 +5,16 @@ Cette plateforme a pour but de centraliser des infos de manière collaborative a
 ## Table des matières
 
 1. [Liste des compétences du référentiel qui sont couvertes par le projet](#Liste-des-compétences-du-référentiel-qui-sont-couvertes-par-le-projet)
-2. [Résumé du projet](./resume-projet.md)
-3. [Cahier des charges](./cahier-des-charges.md)
-4. [Gestion de projet](#Gestion-de-projet)
-5. [Spécifications fonctionnelles](#Spécifications-fonctionnelles)
-6. [Spécifications techniques](#Spécifications-techniques)
-7. [Réalisations](#Réalisations)
-8. [Présentation du jeu d’essai](#Présentation-du-jeu-d’essai)
-9. [Veille](#Veille)
-10. [Description d’une situation de travail ayant nécessité une recherche](#Description-d’-une-situation-de-travail-ayant-nécessité-une-recherche)
+2. [Cahier des charges](./cahier-des-charges/README.md)
+3. [Résumé du projet](./resume-projet/resume-projet.md)
+4. [Gestion de projet](./gestion-de-projet/methodologie-travail-equipe.md)
+5. [Spécifications fonctionnelles](./specifications-fonctionnelles/README.md)
+6. [Spécifications techniques](./specifications-techniques/README.md)
+7. [Réalisations](./realisations/README.md)
+8. [Présentation du jeu d’essai](./presentation-jeu-essai/README.md)
+9. [Veille](./veille/README.md)
+10. [Description d’une situation de travail ayant nécessité une recherche]()
 
 
 ## Liste des compétences du référentiel qui sont couvertes par le projet:
-![alt text](img/REAC-CDA.png)
-
-## Cahier des charges
-
-## Résumé du projet
-
-## Gestion de projet
-
-## Spécifications fonctionnelles
-
-## Spécifications techniques
-
-### RBAC
-
-| Fonctionnalités | visitor | customer | premium-customer | admin |
-|-----------|-----------|-----------|-----------|-----------|
-| Visiter la homepage | ✅ | ✅   | ✅   | ✅   |
-| Inscription au service | ✅ | ✅   | ✅   | ✅   |
-| Connexion au service | ⛔ | ✅   | ✅   | ✅   |
-| Résiliation au service | ⛔ | ✅   | ✅   | ✅   |
-| Définir ses objectifs | ⛔ | ✅   | ✅   | ✅   |
-| Accéder au suivi de ses objectifs | ⛔ | ✅   | ✅   | ✅   |
-| Modifier ses objectifs | ⛔ | ✅   | ✅   | ✅   |
-| Supprimer ses objectifs | ⛔ | ✅   | ✅   | ✅   |
-| Voir les produits disponibles | ⛔ | ✅   | ✅   | ✅   |
-| Ajouter son produit | ⛔ | ⛔   | ✅   | ✅   |
-| Modifier son produit | ⛔ | ⛔   | ✅   | ✅   |
-| Supprimer son produit | ⛔ | ⛔   | ✅   | ✅   |
-| Voir ses informations personnelles | ⛔ | ✅   | ✅   | ✅   |
-| Modifier ses informations personnelles | ⛔ | ✅   | ✅   | ✅   |
-| Modifier les informations d'un utilisateur | ⛔ | ⛔   | ⛔   | ✅   |
-| Supprimer un utilisateur | ⛔ | ⛔   | ⛔   | ✅   |
-
-
-## Réalisations
-
-## Présentation du jeu d’essai
-
-## Veille
-
-## Description d’une situation de travail ayant nécessité une recherche
+![alt text](./assets/img/REAC-CDA.png)

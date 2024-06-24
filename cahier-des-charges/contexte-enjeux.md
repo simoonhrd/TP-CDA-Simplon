@@ -1,4 +1,4 @@
-# Contexte et Enjeux
+# Contexte et enjeux
 
 ## Contexte
 Dans un monde où la santé et le bien-être sont devenus des priorités, les applications de suivi des calories sont de plus en plus populaires. Ces applications permettent aux utilisateurs de suivre leur apport calorique quotidien, de surveiller leur nutrition et de gérer leur poids. Pour les sportifs, ces outils sont particulièrement précieux car ils peuvent aider à optimiser les performances en ajustant l'apport nutritionnel en fonction des besoins spécifiques de l'entraînement et des objectifs de performance.
