@@ -14,10 +14,10 @@ Nous avons pris la décision d'utiliser la méthodologie Agile Scrum, car elle e
 
 # Rythme des sprints et des réunions
 
-Nous avons décidé de mettre en place des sprints d'une durée de 2 semaines. Étant donné que nous n'avons pas la possibilité d'organiser une réunion "Daily", nous avons fixé 2 réunions par semaine, les mardis et jeudis soir afin de faire un point sur l'avancement de chacun et les points de blocage éventuels.
+Nous avons décidé de mettre en place des sprints d'une durée de 1 semaines. Étant donné que nous n'avons pas la possibilité d'organiser une réunion "Daily", nous avons fixé 2 réunions par semaine, les mardis et jeudis soir afin de faire un point sur l'avancement de chacun et les points de blocage éventuels.
 
 # Outils d'organisation
 
-- **Jira** : planification des sprints, création et assignation des tâches
+- **Jira** : planification des sprints, création et assignation des tâches, définition de la roadmap
 - **Discord** : communication écrite et orale, réunion
 - **GitHub** : partage du code
