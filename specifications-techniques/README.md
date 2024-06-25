@@ -1,7 +1,11 @@
 # Spécifications techniques
 
+- Questions Globales
+- Découpage de l'application en couche N-tiers
+
 ## Base de données
 
+- [RGPD](./rgpd.md)
 - [Stratégie de sécurisation BDD](./securisation-bdd.md)
 - [Choix de base de données](choix-bdd.md)
 - [MCD](./mcd.md)
