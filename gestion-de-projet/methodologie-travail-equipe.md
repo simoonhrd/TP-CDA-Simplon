@@ -16,6 +16,8 @@ Nous avons pris la décision d'utiliser la méthodologie Agile Scrum, car elle e
 
 Nous avons décidé de mettre en place des sprints d'une durée de 1 semaines. Étant donné que nous n'avons pas la possibilité d'organiser une réunion "Daily", nous avons fixé 2 réunions par semaine, les mardis et jeudis soir afin de faire un point sur l'avancement de chacun et les points de blocage éventuels.
 
+Nous n'avons pas pu calculer la vélocité de notre équipe pour différentes raisons. La première étant que nous avons pu difficilement appliquer le rythme convenu pour les sprints. La deuxième étant la taille de notre équipe, qui fausse la représentativité de la vélocité.
+
 # Outils d'organisation
 
 - **Jira** : planification des sprints, création et assignation des tâches, définition de la roadmap
