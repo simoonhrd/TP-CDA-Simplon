@@ -1,10 +1,32 @@
 # Methodologie du travail en équipe
 
-## Agile Scrum
+## Scrum plutôt que Kanban ?
 
-Nous avons pris la décision d'utiliser la méthodologie Agile Scrum, car elle est la plus efficace pour le développement d'application. En effet, les équipes qui adoptent la méthode Scrum gagnent en agilité et en flexibilité. Cette approche favorise la collaboration interne et les aide à atteindre leurs objectifs de manière plus efficace. De plus, les équipes Scrum ont une vision constante de leur travail : elles s’occupent des tâches présentes dans leur backlog produit et disposent d’une compréhension claire de leurs objectifs, ayant convenu ensemble de la définition d’un travail « terminé ».
+Nous avons choisi **Scrum** plutôt que Kanban pour notre projet car il correspond mieux à nos besoins en matière de gestion d'équipe et de livraison de produit. Voici quelques raisons clés de notre choix :
 
-# Roles dans l'équipe
+### 1. Structure et Clarté
+
+Scrum offre une structure claire avec des rôles bien définis comme le **Scrum Master**, le **Product Owner**, et l'équipe de développement. Cette clarté nous aide à savoir exactement qui fait quoi et à maintenir un rythme de travail régulier grâce aux **sprints**. Chaque sprint est une période de temps fixée, ce qui nous permet de planifier et d’évaluer notre progrès plus facilement.
+
+### 2. Amélioration Continue
+
+Avec Scrum, nous avons des **rétrospectives** à la fin de chaque sprint, où l'équipe réfléchit sur ce qui a bien fonctionné et ce qui pourrait être amélioré. Cela nous pousse à constamment apprendre et à ajuster notre façon de travailler pour être plus efficaces et innovants.
+
+### 3. Communication et Engagement
+
+Scrum facilite la communication avec toutes les parties prenantes grâce à des **réunions régulières** comme les revues de sprint. Ces réunions nous permettent de recueillir des retours précieux et de nous assurer que nous répondons bien aux attentes des utilisateurs finaux. Cette transparence est cruciale pour le succès de notre projet.
+
+### 4. Livraison de Valeur Rapide
+
+L'un des plus grands avantages de Scrum est sa capacité à nous aider à livrer des fonctionnalités utilisables rapidement. Chaque sprint se concentre sur la réalisation des tâches les plus importantes, assurant ainsi que nous fournissons régulièrement des améliorations et des nouveautés à nos utilisateurs. Cela permet de maximiser l'impact du travail de notre équipe.
+
+### 5. Gestion des Risques
+
+Grâce aux **sprints réguliers**, nous pouvons identifier les problèmes potentiels très tôt dans le processus. Les réunions quotidiennes nous permettent de réagir rapidement aux obstacles, garantissant que notre projet reste sur la bonne voie. Cette approche améliore la prévisibilité et réduit les risques tout au long du développement.
+
+Bien que **Kanban** soit excellent pour des équipes cherchant une flexibilité maximale, Scrum est plus adapté à notre besoin d'une structure solide et d'une approche orientée sur l'amélioration continue et la livraison rapide de valeur. Cette méthodologie nous permet de mieux gérer notre projet tout en maintenant une communication fluide et en maximisant notre efficacité.
+
+## Roles dans l'équipe
 
 | Nom                  | Rôle(s)                    | Responsabilités Principales                                                                                                                                                                                                                                  |
 | -------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -12,14 +34,14 @@ Nous avons pris la décision d'utiliser la méthodologie Agile Scrum, car elle e
 | **Fayad BACARI**        | Tech Lead, Développeur     | Fayad dirige l'aspect technique du projet, s'assure de l'adéquation des solutions technologiques avec les besoins du produit et guide l'équipe de développement dans la mise en œuvre des solutions. Il contribue aussi directement au développement (code). |
 | **Simon HOCHARD**        | Scrum Master, Développeur  | Simon facilite tous les processus Scrum, aide à résoudre les blocages, assure que les méthodologies Agile sont suivies et participe également au développement (code).                                                                                       |
 
-# Rythme des sprints et des réunions
+## Rythme des sprints et des réunions
 
 Nous avons décidé de mettre en place des sprints d'une durée de 1 semaines. Étant donné que nous n'avons pas la possibilité d'organiser une réunion "Daily", nous avons fixé 2 réunions par semaine, les mardis et jeudis soir afin de faire un point sur l'avancement de chacun et les points de blocage éventuels.
 
 Nous n'avons pas pu calculer la vélocité de notre équipe pour différentes raisons. La première étant que nous avons pu difficilement appliquer le rythme convenu pour les sprints. La deuxième étant la taille de notre équipe, qui fausse la représentativité de la vélocité.
 
-# Outils d'organisation
+## Outils d'organisation
 
 - **Jira** : planification des sprints, création et assignation des tâches, définition de la roadmap
 - **Discord** : communication écrite et orale, réunion
-- **GitHub** : partage du code
+- **GitHub** : partage et versionning du code
