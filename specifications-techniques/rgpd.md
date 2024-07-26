@@ -40,4 +40,4 @@ Nous garantirons les droits des utilisateurs en leur offrant les outils nécessa
 
 En mettant en place ces mesures, Calories Tracker s'engage à respecter les principes fondamentaux du RGPD, en protégeant la vie privée de nos utilisateurs tout en leur offrant un service efficace et sécurisé pour le suivi de leur alimentation et de leurs objectifs de santé.
 
-[🔙 Retour aux Spécifications Techniques](../README.md)
+[🔙 Retour aux Spécifications Techniques](../specifications-techniques/README.md)
