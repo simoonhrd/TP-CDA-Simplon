@@ -8,23 +8,23 @@ Dans notre quête d'optimisation de notre gestion de projet, nous avons opté po
 
 Nous avons choisi **Scrum** plutôt que Kanban pour notre projet car il correspond mieux à nos besoins en matière de gestion d'équipe et de livraison de produit. Voici quelques raisons clés de notre choix :
 
-### 1. Structure et Clarté
+### 1. Structure et clarté
 
 Scrum offre une structure claire avec des rôles bien définis comme le **Scrum Master**, le **Product Owner**, et l'équipe de développement. Cette clarté nous aide à savoir exactement qui fait quoi et à maintenir un rythme de travail régulier grâce aux **sprints**. Chaque sprint est une période de temps fixée, ce qui nous permet de planifier et d’évaluer notre progrès plus facilement.
 
-### 2. Amélioration Continue
+### 2. Amélioration continue
 
 Avec Scrum, nous avons des **rétrospectives** à la fin de chaque sprint, où l'équipe réfléchit sur ce qui a bien fonctionné et ce qui pourrait être amélioré. Cela nous pousse à constamment apprendre et à ajuster notre façon de travailler pour être plus efficaces et innovants.
 
-### 3. Communication et Engagement
+### 3. Communication et engagement
 
 Scrum facilite la communication avec toutes les parties prenantes grâce à des **réunions régulières** comme les revues de sprint. Ces réunions nous permettent de recueillir des retours précieux et de nous assurer que nous répondons bien aux attentes des utilisateurs finaux. Cette transparence est cruciale pour le succès de notre projet.
 
-### 4. Livraison de Valeur Rapide
+### 4. Livraison de valeur rapide
 
 L'un des plus grands avantages de Scrum est sa capacité à nous aider à livrer des fonctionnalités utilisables rapidement. Chaque sprint se concentre sur la réalisation des tâches les plus importantes, assurant ainsi que nous fournissons régulièrement des améliorations et des nouveautés à nos utilisateurs. Cela permet de maximiser l'impact du travail de notre équipe.
 
-### 5. Gestion des Risques
+### 5. Gestion des risques
 
 Grâce aux **sprints réguliers**, nous pouvons identifier les problèmes potentiels très tôt dans le processus. Les réunions quotidiennes nous permettent de réagir rapidement aux obstacles, garantissant que notre projet reste sur la bonne voie. Cette approche améliore la prévisibilité et réduit les risques tout au long du développement.
 
