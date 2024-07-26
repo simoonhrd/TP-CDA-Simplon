@@ -57,3 +57,5 @@
 |                          | id_admin             | INT             | -        | PRIMARY KEY(id_product, id_admin), FOREIGN KEY(id_admin) REFERENCES Admin(id_admin) | Référence à l'administrateur gérant le produit.                | 1                     |
 | **Customer_Products**    | uuid                 | INT             | -        | PRIMARY KEY(uuid, id_product), FOREIGN KEY(uuid) REFERENCES Customers(uuid) | Référence au client ayant consommé le produit.                 | 1                     |
 |                          | id_product           | INT             | -        | PRIMARY KEY(uuid, id_product), FOREIGN KEY(id_product) REFERENCES Products(id_product) | Référence au produit consommé par le client.                  
+
+[🔙 Retour aux Spécifications Techniques](../specifications-techniques/README.md)
