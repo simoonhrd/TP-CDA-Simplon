@@ -38,3 +38,5 @@
 - [Choix stack mobile](choix-stack-mobile.md)
 - [Wireframes](./wireframes-mobile.md)
 - [Mockups](./mockups-mobile.md)
+
+[🔙 Retour à la page d'accueil](../README.md)
