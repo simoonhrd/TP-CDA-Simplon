@@ -16,3 +16,5 @@
 | Mariage librairies          | 4   | 5       | 4    | 3     | 3      | 3    |
 | Tarifs                      | Gratuit | Gratuit | Gratuit | Gratuit | Gratuit | Gratuit |
 | Total                       | 26  | 50 🥇     | 40 🥈  | 31    | 32 🥉    | 31   |
+
+[🔙 Retour aux Spécifications Techniques](../specifications-techniques/README.md)
