@@ -83,3 +83,5 @@
 - Si l'administrateur supprime un client, alors cela supprimera l'objectif et les repas créés par le client.
 - L'administrateur peut modifier un produit créé par un client.
 - L'administrateur peut supprimer un produit créé par un client.
+
+[🔙 Retour aux Spécifications Fonctionnelles](../specifications-fonctionnelles/README.md)
