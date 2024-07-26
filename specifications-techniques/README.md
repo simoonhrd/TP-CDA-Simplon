@@ -17,6 +17,7 @@
 
 - [Stratégie de sécurisation API](./securisation-api.md)
 - [Choix stack API](choix-stack-api.md)
+- [RBAC (Role-Based Access Control)](rbac.md)
 - [Diagramme de cas d'utilisation](./cas-utilisation.md)
 - [Diagramme d'activité](./diagramme-activite.md)
 - [Diagramme de séquence](./diagramme-sequence.md)
