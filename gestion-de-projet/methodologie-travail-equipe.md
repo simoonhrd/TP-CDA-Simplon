@@ -1,5 +1,9 @@
 # Methodologie du travail en équipe
 
+## Pourquoi avons-nous choisi la méthodologie Agile ?
+
+Dans notre quête d'optimisation de notre gestion de projet, nous avons opté pour la **méthodologie Agile**. Agile nous offre la flexibilité et l'adaptabilité nécessaires pour répondre rapidement aux évolutions des besoins et des priorités de nos clients. Elle met l'accent sur la collaboration, l'amélioration continue et la livraison fréquente de valeur, ce qui est essentiel pour nous assurer que nous développons des solutions qui répondent réellement aux attentes des utilisateurs.
+
 ## Scrum plutôt que Kanban ?
 
 Nous avons choisi **Scrum** plutôt que Kanban pour notre projet car il correspond mieux à nos besoins en matière de gestion d'équipe et de livraison de produit. Voici quelques raisons clés de notre choix :
